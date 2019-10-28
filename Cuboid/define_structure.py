@@ -1,5 +1,5 @@
-from DEM_HYPER.config import *
-from DEM_HYPER.Cuboid.config import *
+from dem_hyperelasticity.config import *
+from dem_hyperelasticity.Cuboid.config import *
 
 
 def setup_domain():
