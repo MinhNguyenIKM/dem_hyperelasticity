@@ -33,7 +33,7 @@ b. add the above line to the end of file ~/.bashrc and execute "source ~/.bashrc
 Optional:
 
 To use fem to compare the results with fem, we recommend to install fenics
-Commands:
+
 1. conda config --add channels conda-forge
 
 2. !conda install fenics
