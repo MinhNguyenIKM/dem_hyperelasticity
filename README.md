@@ -11,7 +11,7 @@ https://doi.org/10.1016/j.euromechsol.2019.103874
 Setup:
 1. Create working directory: cd \<workingdir\>; mkdir DeepEnergyMethod
 
-2. Download dem_hyperelasticity source code and put under DeepEnergyMethod.
+2. Download dem_hyperelasticity source code and put it under DeepEnergyMethod.
 The directory is like \<workingdir\>/DeepEnergyMethod/dem_hyperelasticity
 
 3. Setup environment with conda: conda create -n demhyper python=3.7
