@@ -25,7 +25,9 @@ The directory is like <workingdir>/DeepEnergyMethod/dem_hyperelasticity
 7. Install pyevtk for view in Paraview: pip install pyevtk
 
 8. Setup PYTHONPATH environment by doing either a. or b.: 
+
 a. export PYTHONPATH="$PYTHONPATH:<workingdir>/DeepEnergyMethod/dem_hyperelasticity"
+  
 b. add the above line to the end of file ~/.bashrc and execute "source ~/.bashrc"
 
 Optional:
