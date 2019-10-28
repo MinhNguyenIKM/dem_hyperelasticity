@@ -10,7 +10,7 @@ https://doi.org/10.1016/j.euromechsol.2019.103874
 --------------------------------------------------------------------
 Setup:
 
-1. Setup environment with conda: conda create -n demhyper python=3.4
+1. Setup environment with conda: conda create -n demhyper python=3.7
 
 2. Switch to demhyper environment to start working with dem: source activate demhyper
 
