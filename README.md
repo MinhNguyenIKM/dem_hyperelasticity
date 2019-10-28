@@ -9,10 +9,10 @@ Available online 25 October 2019, 103874
 https://doi.org/10.1016/j.euromechsol.2019.103874
 --------------------------------------------------------------------
 Setup:
-1. Create working directory: cd <workingdir>; mkdir DeepEnergyMethod
+1. Create working directory: cd \<workingdir\>; mkdir DeepEnergyMethod
 
 2. Download dem_hyperelasticity source code and put under DeepEnergyMethod.
-The directory is like <workingdir>/DeepEnergyMethod/dem_hyperelasticity
+The directory is like \<workingdir\>/DeepEnergyMethod/dem_hyperelasticity
 
 3. Setup environment with conda: conda create -n demhyper python=3.7
 
@@ -26,7 +26,7 @@ The directory is like <workingdir>/DeepEnergyMethod/dem_hyperelasticity
 
 8. Setup PYTHONPATH environment by doing either a. or b.: 
 
-a. export PYTHONPATH="$PYTHONPATH:<workingdir>/DeepEnergyMethod/dem_hyperelasticity"
+a. export PYTHONPATH="$PYTHONPATH:\<workingdir\>/DeepEnergyMethod/dem_hyperelasticity"
   
 b. add the above line to the end of file ~/.bashrc and execute "source ~/.bashrc"
 
