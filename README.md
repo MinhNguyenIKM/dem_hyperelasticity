@@ -16,7 +16,7 @@ Setup:
 
 3. Install numpy, scipy, matplotlib: pip install numpy scipy matplotlib
 
-4. Install pytorch and its dependencies: conda install pytorch-cpu torchvision-cpu -c pytorch
+4. Install pytorch and its dependencies: conda install pytorch pytorch-cpu torchvision-cpu
 
 5. Install pyevtk for view in Paraview: pip install pyevtk
 
