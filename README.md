@@ -7,6 +7,8 @@ Authors: Vien Minh Nguyen-Thanh, Xiaoying Zhuang, Timon Rabczuk
 European Journal of Mechanics - A/Solids
 Available online 25 October 2019, 103874
 https://doi.org/10.1016/j.euromechsol.2019.103874
+
+Contact: minh.nguyen@ikm.uni-hannover.de
 --------------------------------------------------------------------
 Setup:
 1. Create DeepEnergyMethod directory: cd \<workingdir\>; mkdir DeepEnergyMethod
