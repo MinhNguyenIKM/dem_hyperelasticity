@@ -26,7 +26,7 @@ The directory is like \<workingdir\>/DeepEnergyMethod/dem_hyperelasticity
 
 8. Setup PYTHONPATH environment by doing either a. or b.: 
 
-a. export PYTHONPATH="$PYTHONPATH:\<workingdir\>/DeepEnergyMethod/dem_hyperelasticity"
+a. export PYTHONPATH="$PYTHONPATH:\<workingdir\>/DeepEnergyMethod"
   
 b. add the above line to the end of file ~/.bashrc and execute "source ~/.bashrc"
 
