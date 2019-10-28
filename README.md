@@ -9,16 +9,24 @@ Available online 25 October 2019, 103874
 https://doi.org/10.1016/j.euromechsol.2019.103874
 --------------------------------------------------------------------
 Setup:
+1. Create working directory: cd <workingdir>; mkdir DeepEnergyMethod
 
-1. Setup environment with conda: conda create -n demhyper python=3.7
+2. Download dem_hyperelasticity source code and put under DeepEnergyMethod.
+The directory is like <workingdir>/DeepEnergyMethod/dem_hyperelasticity
 
-2. Switch to demhyper environment to start working with dem: source activate demhyper
+3. Setup environment with conda: conda create -n demhyper python=3.7
 
-3. Install numpy, scipy, matplotlib: pip install numpy scipy matplotlib
+4. Switch to demhyper environment to start working with dem: source activate demhyper
 
-4. Install pytorch and its dependencies: conda install pytorch pytorch-cpu torchvision-cpu
+5. Install numpy, scipy, matplotlib: pip install numpy scipy matplotlib
 
-5. Install pyevtk for view in Paraview: pip install pyevtk
+6. Install pytorch and its dependencies: conda install pytorch pytorch-cpu torchvision-cpu
+
+7. Install pyevtk for view in Paraview: pip install pyevtk
+
+8. Setup PYTHONPATH environment by doing either a. or b.: 
+a. export PYTHONPATH="$PYTHONPATH:<workingdir>/DeepEnergyMethod/dem_hyperelasticity"
+b. add the above line to the end of file ~/.bashrc and execute "source ~/.bashrc"
 
 Optional:
 
