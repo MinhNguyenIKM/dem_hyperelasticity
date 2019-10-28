@@ -20,7 +20,7 @@ The directory is like \<workingdir\>/DeepEnergyMethod/dem_hyperelasticity
 
 5. Install numpy, scipy, matplotlib: pip install numpy scipy matplotlib
 
-6. Install pytorch and its dependencies: conda install pytorch pytorch-cpu torchvision-cpu
+6. Install pytorch and its dependencies: conda install pytorch pytorch-cpu torchvision-cpu -c pytorch
 
 7. Install pyevtk for view in Paraview: pip install pyevtk
 
