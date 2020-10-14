@@ -10,14 +10,11 @@ https://doi.org/10.1016/j.euromechsol.2019.103874
 
 Contact: minh.nguyen@ikm.uni-hannover.de
 
-
+![](loss.gif)
 Training loss of the Twisting T-structure example
 
-![](loss.gif)
-
-Corresponding animation to the training loss
-
 ![](Tbar-uncon.gif)
+Corresponding animation to the training loss
 --------------------------------------------------------------------
 Setup:
 1. Create DeepEnergyMethod directory: cd \<workingdir\>; mkdir DeepEnergyMethod
