@@ -10,7 +10,9 @@ https://doi.org/10.1016/j.euromechsol.2019.103874
 
 Contact: minh.nguyen@ikm.uni-hannover.de
 
+Training loss of the Twisting T-structure example
 ![](loss.gif)
+Corresponding animation to the training loss
 ![](Tbar-uncon.gif)
 --------------------------------------------------------------------
 Setup:
