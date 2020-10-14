@@ -10,7 +10,8 @@ https://doi.org/10.1016/j.euromechsol.2019.103874
 
 Contact: minh.nguyen@ikm.uni-hannover.de
 
-![]![](loss.gif)(Tbar-uncon.gif)
+![](loss.gif)
+![](Tbar-uncon.gif)
 --------------------------------------------------------------------
 Setup:
 1. Create DeepEnergyMethod directory: cd \<workingdir\>; mkdir DeepEnergyMethod
