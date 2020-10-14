@@ -12,11 +12,8 @@ Contact: minh.nguyen@ikm.uni-hannover.de
 
 ![](loss.gif)
 
-Training loss of the Twisting T-structure example
-
 ![](Tbar-uncon.gif)
 
-Corresponding animation to the training loss
 --------------------------------------------------------------------
 Setup:
 1. Create DeepEnergyMethod directory: cd \<workingdir\>; mkdir DeepEnergyMethod
