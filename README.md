@@ -8,7 +8,7 @@ European Journal of Mechanics - A/Solids
 Available online 25 October 2019, 103874
 https://doi.org/10.1016/j.euromechsol.2019.103874
 
-Contact: minh.nguyen@iop.uni-hannover.de
+Contact: ntvminh286@gmail.com (institute email: minh.nguyen@iop.uni-hannover.de)
 
 ![](loss.gif)
 
