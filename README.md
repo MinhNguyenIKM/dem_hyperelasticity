@@ -16,6 +16,7 @@ Contact: ntvminh286@gmail.com
 
 --------------------------------------------------------------------
 Setup:
+
 1. Create DeepEnergyMethod directory: cd \<workingdir\>; mkdir DeepEnergyMethod
 
 2. Download dem_hyperelasticity source code and put it under DeepEnergyMethod.
